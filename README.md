@@ -5,14 +5,18 @@ Lab 5
 * Download and install Postman
 * Create a Node.js and fastify server application with GET and respond with JSON
 * Use Postman to test server GET routes
+
+
 ### Technologies used
-    Fastify
-    Npm
-    Postman
-    Terminal
-    Visual Studio Code
+`Fastify`
+`Npm`
+`Postman`
+`Terminal`
+`Visual Studio Code`
+
+
 ### What I learned
-	How to work with JSON using Postman and GET routes. 
+How to work with JSON using Postman and GET routes. 
 
 
 POSTMAN Student Code
